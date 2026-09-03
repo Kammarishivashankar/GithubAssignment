@@ -7,7 +7,7 @@ name = "src"
 version = "0.0.1"
 description = "Duumy project"
 authors = [
-  { name = "SS" },
+  { name = "ShivaShankar" },
 ]
 license = { file = "LICENSE" }
 readme = "README.md"

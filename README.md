@@ -6,6 +6,7 @@
 
 Duumy project
 
+
 ## Project Organization
 
 ```
@@ -56,6 +57,4 @@ Duumy project
     │
     └── plots.py                <- Code to create visualizations
 ```
-
---------
 
