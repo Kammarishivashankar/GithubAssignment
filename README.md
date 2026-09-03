@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project_x
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -58,4 +59,5 @@ MLops Dummy project
 ```
 
 --------
+
 
